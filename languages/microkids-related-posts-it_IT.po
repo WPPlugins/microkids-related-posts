@@ -1,0 +1,218 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Microkids Related Posts\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-09-06 00:42+0100\n"
+"PO-Revision-Date: 2011-12-08 23:26+0100\n"
+"Last-Translator: Bastiaan van Dreunen <bastiaan@superinteractive.com>\n"
+"Language-Team:  <microkid.net@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: /Users/superinteractive/Sites/mrp.dev/wp-content/plugins/microkids-related-posts\n"
+"X-Poedit-Language: Dutch\n"
+"X-Poedit-SearchPath-0: /Users/superinteractive/Sites/mrp.dev/wp-content/plugins/microkids-related-posts\n"
+
+#: /Users/superinteractive/Sites/mrp.dev/wp-content/plugins/microkids-related-posts/microkids-related-posts-widget.php:8
+msgid "Display related posts as a widget"
+msgstr "Visualizza i posti correlati in un widget"
+
+#: /Users/superinteractive/Sites/mrp.dev/wp-content/plugins/microkids-related-posts/microkids-related-posts-widget.php:9
+msgid "Related Posts"
+msgstr "Articoli correlati"
+
+#: /Users/superinteractive/Sites/mrp.dev/wp-content/plugins/microkids-related-posts/microkids-related-posts-widget.php:69
+msgid "None"
+msgstr "Niente"
+
+#: /Users/superinteractive/Sites/mrp.dev/wp-content/plugins/microkids-related-posts/microkids-related-posts-widget.php:76
+msgid "Title:"
+msgstr "Titolo"
+
+#: /Users/superinteractive/Sites/mrp.dev/wp-content/plugins/microkids-related-posts/microkids-related-posts-widget.php:77
+msgid "Post type to display:"
+msgstr "Tipo di post da visualizzare:"
+
+#: /Users/superinteractive/Sites/mrp.dev/wp-content/plugins/microkids-related-posts/microkids-related-posts-widget.php:80
+msgid "All"
+msgstr "Tutti"
+
+#: /Users/superinteractive/Sites/mrp.dev/wp-content/plugins/microkids-related-posts/microkids-related-posts-widget.php:81
+#: /Users/superinteractive/Sites/mrp.dev/wp-content/plugins/microkids-related-posts/microkids-related-posts.php:481
+#: /Users/superinteractive/Sites/mrp.dev/wp-content/plugins/microkids-related-posts/microkids-related-posts.php:660
+msgid "Posts"
+msgstr "Articoli"
+
+#: /Users/superinteractive/Sites/mrp.dev/wp-content/plugins/microkids-related-posts/microkids-related-posts-widget.php:82
+#: /Users/superinteractive/Sites/mrp.dev/wp-content/plugins/microkids-related-posts/microkids-related-posts.php:664
+msgid "Pages"
+msgstr "Pagine"
+
+#: /Users/superinteractive/Sites/mrp.dev/wp-content/plugins/microkids-related-posts/microkids-related-posts-widget.php:88
+msgid "If there are no related posts:"
+msgstr "Se non ci sono post correlati:"
+
+#: /Users/superinteractive/Sites/mrp.dev/wp-content/plugins/microkids-related-posts/microkids-related-posts-widget.php:89
+msgid "Hide the entire widget"
+msgstr "Nascondi tutto il widget"
+
+#: /Users/superinteractive/Sites/mrp.dev/wp-content/plugins/microkids-related-posts/microkids-related-posts-widget.php:90
+msgid "Show this text:"
+msgstr "Visualizza questo testo:"
+
+#: /Users/superinteractive/Sites/mrp.dev/wp-content/plugins/microkids-related-posts/microkids-related-posts.php:106
+msgid "Related items"
+msgstr "Articoli correlati"
+
+#: /Users/superinteractive/Sites/mrp.dev/wp-content/plugins/microkids-related-posts/microkids-related-posts.php:145
+msgid "Related"
+msgstr "Correlati"
+
+#: /Users/superinteractive/Sites/mrp.dev/wp-content/plugins/microkids-related-posts/microkids-related-posts.php:159
+#: /Users/superinteractive/Sites/mrp.dev/wp-content/plugins/microkids-related-posts/microkids-related-posts.php:163
+msgid "Use the search box below to select related items"
+msgstr "Utilizza il box di ricerca qui sotto per selezionare gli articoli correlati"
+
+#: /Users/superinteractive/Sites/mrp.dev/wp-content/plugins/microkids-related-posts/microkids-related-posts.php:168
+msgid "Search items"
+msgstr "Box ricerca"
+
+#: /Users/superinteractive/Sites/mrp.dev/wp-content/plugins/microkids-related-posts/microkids-related-posts.php:169
+msgid "Title"
+msgstr "Titolo"
+
+#: /Users/superinteractive/Sites/mrp.dev/wp-content/plugins/microkids-related-posts/microkids-related-posts.php:169
+msgid "Content"
+msgstr "Contenuto"
+
+#: /Users/superinteractive/Sites/mrp.dev/wp-content/plugins/microkids-related-posts/microkids-related-posts.php:169
+msgid "Both"
+msgstr "Entrambi"
+
+#: /Users/superinteractive/Sites/mrp.dev/wp-content/plugins/microkids-related-posts/microkids-related-posts.php:575
+msgid "Settings saved"
+msgstr "Modifiche salvate"
+
+#: /Users/superinteractive/Sites/mrp.dev/wp-content/plugins/microkids-related-posts/microkids-related-posts.php:582
+msgid "Donation message hidden"
+msgstr "Nascondi messaggio della donazione"
+
+#: /Users/superinteractive/Sites/mrp.dev/wp-content/plugins/microkids-related-posts/microkids-related-posts.php:591
+msgid "Related posts settings"
+msgstr "Impostazioni post correlati"
+
+#: /Users/superinteractive/Sites/mrp.dev/wp-content/plugins/microkids-related-posts/microkids-related-posts.php:594
+#, php-format
+msgid "These settings let you customize the presentation of the list of related posts. If you're using a theme that supports it, you can also use the Related Posts <a%s>widget</a>."
+msgstr "Le seguenti impostazioni ti permettono di personalizzare la visualizzazione della lista dei post correlati. Se fai uso di un tema che lo supporta, puoi anche utilizzare il <a%s>widget</a> dei post correlati."
+
+#: /Users/superinteractive/Sites/mrp.dev/wp-content/plugins/microkids-related-posts/microkids-related-posts.php:597
+msgid "Display related posts automatically underneath the post content?"
+msgstr "Visualizzare automaticamente i post correlati al di sotto del contenuto del post corrente?"
+
+#: /Users/superinteractive/Sites/mrp.dev/wp-content/plugins/microkids-related-posts/microkids-related-posts.php:599
+msgid "Yes"
+msgstr "Si"
+
+#: /Users/superinteractive/Sites/mrp.dev/wp-content/plugins/microkids-related-posts/microkids-related-posts.php:600
+msgid "No, I will use the widget, the shortcode or implement the necessary PHP code in my theme file(s)."
+msgstr "No, intendo usare il widget, lo shortcode oppure il relativo codice PHP nei file del mio tema"
+
+#: /Users/superinteractive/Sites/mrp.dev/wp-content/plugins/microkids-related-posts/microkids-related-posts.php:604
+msgid "Should related posts be reciprocal? If so, the link will appear on both pages. If not, it will only appear on the post/page where it was selected."
+msgstr "I post correlati possono essere reciproci? In questo caso appariranno in entrambe le pagine. In caso contrario, appariranno solo nella pagina/articolo che è stato selezionato."
+
+#: /Users/superinteractive/Sites/mrp.dev/wp-content/plugins/microkids-related-posts/microkids-related-posts.php:606
+msgid "Yes, include the link on both pages"
+msgstr "Si, includi il link in entrambe le pagine"
+
+#: /Users/superinteractive/Sites/mrp.dev/wp-content/plugins/microkids-related-posts/microkids-related-posts.php:607
+msgid "No, only show the link on one page"
+msgstr "No, visualizza il link solo nella pagina selezionata"
+
+#: /Users/superinteractive/Sites/mrp.dev/wp-content/plugins/microkids-related-posts/microkids-related-posts.php:611
+msgid "What title should be displayed?"
+msgstr "Quale titolo deve essere visualizzato?"
+
+#: /Users/superinteractive/Sites/mrp.dev/wp-content/plugins/microkids-related-posts/microkids-related-posts.php:615
+msgid "Using HTML header element"
+msgstr "Utilizza gli HTML header"
+
+#: /Users/superinteractive/Sites/mrp.dev/wp-content/plugins/microkids-related-posts/microkids-related-posts.php:625
+msgid "<strong>Note:</strong> if you choose to display different post types as seperate lists, you can place <strong>%posttype%</strong> in the title to display the label of the post type."
+msgstr "<strong>Attenzione:</strong>Se scegli di visualizzare differenti tipi di post in liste separate, puoi inserire <strong>%posttype%</strong> nel titolo al fine di visualizzare l'etichetta del tipo di post."
+
+#: /Users/superinteractive/Sites/mrp.dev/wp-content/plugins/microkids-related-posts/microkids-related-posts.php:629
+msgid "What should be displayed when there are no related posts?"
+msgstr "Cosa deve essere visualizzato quando non ci sono articoli correlati?"
+
+#: /Users/superinteractive/Sites/mrp.dev/wp-content/plugins/microkids-related-posts/microkids-related-posts.php:631
+msgid "Nothing"
+msgstr "Niente"
+
+#: /Users/superinteractive/Sites/mrp.dev/wp-content/plugins/microkids-related-posts/microkids-related-posts.php:633
+msgid "Show this text"
+msgstr "Visualizza questo testo"
+
+#: /Users/superinteractive/Sites/mrp.dev/wp-content/plugins/microkids-related-posts/microkids-related-posts.php:640
+msgid "In what order would you like to display the related posts?"
+msgstr "In quale ordine vuoi che vengano visualizzati i post correlati?"
+
+#: /Users/superinteractive/Sites/mrp.dev/wp-content/plugins/microkids-related-posts/microkids-related-posts.php:644
+msgid "By date, new to old"
+msgstr "Per data, dal pi&ugrave; recente al pi&ugrave; vecchio"
+
+#: /Users/superinteractive/Sites/mrp.dev/wp-content/plugins/microkids-related-posts/microkids-related-posts.php:645
+msgid "By date, old to new"
+msgstr "Per data, dal pi&ugrave; vecchio al pi&ugrave; recente"
+
+#: /Users/superinteractive/Sites/mrp.dev/wp-content/plugins/microkids-related-posts/microkids-related-posts.php:646
+msgid "Alphabetical"
+msgstr "In ordine alfabetico (A-Z)"
+
+#: /Users/superinteractive/Sites/mrp.dev/wp-content/plugins/microkids-related-posts/microkids-related-posts.php:647
+msgid "Reverse alphabetical"
+msgstr "In ordine alfabetico (Z-A)"
+
+#: /Users/superinteractive/Sites/mrp.dev/wp-content/plugins/microkids-related-posts/microkids-related-posts.php:648
+msgid "Randomly"
+msgstr "In maniera casuale"
+
+#: /Users/superinteractive/Sites/mrp.dev/wp-content/plugins/microkids-related-posts/microkids-related-posts.php:654
+msgid "Which post types can have related items?"
+msgstr "Quali tipi di post devono avere gli elementi correlati?"
+
+#: /Users/superinteractive/Sites/mrp.dev/wp-content/plugins/microkids-related-posts/microkids-related-posts.php:676
+msgid "Would you like to display different post types as seperate lists or combine them into one related posts list?"
+msgstr "Ti piacerebbe visualizzare differenti tipi di post in liste separate o preferisci includere in un'unica lista?"
+
+#: /Users/superinteractive/Sites/mrp.dev/wp-content/plugins/microkids-related-posts/microkids-related-posts.php:678
+msgid "Display as seperate lists"
+msgstr "Visualizzali in liste separate"
+
+#: /Users/superinteractive/Sites/mrp.dev/wp-content/plugins/microkids-related-posts/microkids-related-posts.php:679
+msgid "Combine into one list"
+msgstr "Visualizzali in una singola lista"
+
+#: /Users/superinteractive/Sites/mrp.dev/wp-content/plugins/microkids-related-posts/microkids-related-posts.php:684
+msgid "Save Changes"
+msgstr "Salva modifiche"
+
+#: /Users/superinteractive/Sites/mrp.dev/wp-content/plugins/microkids-related-posts/microkids-related-posts.php:686
+#, php-format
+msgid "Note: If you need even more customization options, there are several <a%s>API functions</a> available."
+msgstr "Attenzione: se hai bisogno di maggiori personalizzazioni, puoi usufruire di alcune <a%s>funzioni API</a>."
+
+#: /Users/superinteractive/Sites/mrp.dev/wp-content/plugins/microkids-related-posts/microkids-related-posts.php:691
+msgid "Donate!"
+msgstr "Dona!"
+
+#: /Users/superinteractive/Sites/mrp.dev/wp-content/plugins/microkids-related-posts/microkids-related-posts.php:692
+msgid "Has this plugin saved your day? Are you using it for a commercial project? Cool! But please consider a donation for my work:"
+msgstr "Questo plugin ha facilitato il tuo lavoro? Lo stai utilizzando per un progetto commerciale? Ottimo! Prendi in considerazione una donazione per il mio lavoro:"
+
+#: /Users/superinteractive/Sites/mrp.dev/wp-content/plugins/microkids-related-posts/microkids-related-posts.php:717
+msgid "Hide this message"
+msgstr "Nascondi questo messaggio"
+

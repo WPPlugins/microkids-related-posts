@@ -1,0 +1,219 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Microkids Related Posts\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-06-18 16:56+0700\n"
+"PO-Revision-Date: 2011-06-18 17:54+0700\n"
+"Last-Translator: Masino Sinaga <admin@masinosinaga.com>\n"
+"Language-Team: Masino Sinaga <masino.sinaga@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: /Users/superinteractive/Sites/mrp.dev/wp-content/plugins/microkids-related-posts\n"
+"X-Poedit-Language: Indonesian\n"
+"X-Poedit-Country: INDONESIA\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../microkids-related-posts-widget.php:8
+msgid "Display related posts as a widget"
+msgstr "Tampilkan tulisan terkait sebagai widget"
+
+#: ../microkids-related-posts-widget.php:9
+msgid "Related Posts"
+msgstr "Tulisan Terkait"
+
+#: ../microkids-related-posts-widget.php:69
+msgid "None"
+msgstr "Tidak ada"
+
+#: ../microkids-related-posts-widget.php:76
+msgid "Title:"
+msgstr "Judul:"
+
+#: ../microkids-related-posts-widget.php:77
+msgid "Post type to display:"
+msgstr "Jenis tulisan yang ditampilkan:"
+
+#: ../microkids-related-posts-widget.php:80
+msgid "All"
+msgstr "Semua"
+
+#: ../microkids-related-posts-widget.php:81
+#: ../microkids-related-posts.php:484
+#: ../microkids-related-posts.php:664
+msgid "Posts"
+msgstr "Tulisan"
+
+#: ../microkids-related-posts-widget.php:82
+#: ../microkids-related-posts.php:668
+msgid "Pages"
+msgstr "Halaman"
+
+#: ../microkids-related-posts-widget.php:88
+msgid "If there are no related posts:"
+msgstr "Jika tidak ada tulisan terkait:"
+
+#: ../microkids-related-posts-widget.php:89
+msgid "Hide the entire widget"
+msgstr "Sembunyikan seluruh widget"
+
+#: ../microkids-related-posts-widget.php:90
+msgid "Show this text:"
+msgstr "Tampilkan tulisan ini:"
+
+#: ../microkids-related-posts.php:106
+msgid "Related items"
+msgstr "Item terkait"
+
+#: ../microkids-related-posts.php:145
+msgid "Related"
+msgstr "Terkait"
+
+#: ../microkids-related-posts.php:159
+#: ../microkids-related-posts.php:163
+msgid "Use the search box below to select related items"
+msgstr "Gunakan kotak pencarian di bawah untuk memilih item yang terkait"
+
+#: ../microkids-related-posts.php:168
+msgid "Search items"
+msgstr "Item pencarian"
+
+#: ../microkids-related-posts.php:169
+msgid "Title"
+msgstr "Judul"
+
+#: ../microkids-related-posts.php:169
+msgid "Content"
+msgstr "Konten"
+
+#: ../microkids-related-posts.php:169
+msgid "Both"
+msgstr "Keduanya"
+
+#: ../microkids-related-posts.php:579
+msgid "Settings saved"
+msgstr "Pengaturan telah disimpan"
+
+#: ../microkids-related-posts.php:586
+msgid "Donation message hidden"
+msgstr "Pesan donasi sudah disembunyikan"
+
+#: ../microkids-related-posts.php:595
+msgid "Related posts settings"
+msgstr "Pengaturan tulisan terkait"
+
+#: ../microkids-related-posts.php:598
+#, php-format
+msgid "These settings let you customize the presentation of the list of related posts. If you're using a theme that supports it, you can also use the Related Posts <a%s>widget</a>."
+msgstr "Pengaturan ini mengijinkan Anda mengatur tampilan dari senarai tulisan terkait. Jika Anda sedang menggunakan tema yang mendukung widget, Anda juga dapat menggunakan <a%s>widget</a> Tulisan Terkait."
+
+#: ../microkids-related-posts.php:601
+msgid "Display related posts automatically underneath the post content?"
+msgstr "Tampilkan tulisan terkait secara otomatis di bawah konten tulisan?"
+
+#: ../microkids-related-posts.php:603
+msgid "Yes"
+msgstr "Ya"
+
+#: ../microkids-related-posts.php:604
+msgid "No, I will use the widget, the shortcode or implement the necessary PHP code in my theme file(s)."
+msgstr "Tidak, Saya akan menggunakan widget, shortcode atau mengimplementasikan kode PHP di file tema saya."
+
+#: ../microkids-related-posts.php:608
+msgid "Should related posts be reciprocal? If so, the link will appear on both pages. If not, it will only appear on the post/page where it was selected."
+msgstr "Apakah tulisan terkait saling ketergantungan? Jika ya, tautan akan kelihatan di kedua halaman. Jika tidak, dia hanya kelihatan di tulisan/halaman di mana dia dipilih."
+
+#: ../microkids-related-posts.php:610
+msgid "Yes, include the link on both pages"
+msgstr "Ya, sertakan tautan di kedua halaman"
+
+#: ../microkids-related-posts.php:611
+msgid "No, only show the link on one page"
+msgstr "Tidak, hanya tampilkan tautan di satu halaman"
+
+#: ../microkids-related-posts.php:615
+msgid "What title should be displayed?"
+msgstr "Judul apa yang seharusnya ditampilkan?"
+
+#: ../microkids-related-posts.php:619
+msgid "Using HTML header element"
+msgstr "Gunakan elemen header HTML"
+
+#: ../microkids-related-posts.php:629
+msgid "<strong>Note:</strong> if you choose to display different post types as seperate lists, you can place <strong>%posttype%</strong> in the title to display the label of the post type."
+msgstr "<strong>Catatan:</strong> jika Anda memilih untuk menampilkan jenis tulisan yang berbeda sebagai senarai yang terpisah, Anda dapat menempatkan <strong>%posttype%</strong> di judul untuk menampilkan label dari jenis tulisan."
+
+#: ../microkids-related-posts.php:633
+msgid "What should be displayed when there are no related posts?"
+msgstr "Apa yang seharusnya ditampilkan ketika tidak ada tulisan yang terkait?"
+
+#: ../microkids-related-posts.php:635
+msgid "Nothing"
+msgstr "Tidak ada"
+
+#: ../microkids-related-posts.php:637
+msgid "Show this text"
+msgstr "Tampilkan tulisan ini"
+
+#: ../microkids-related-posts.php:644
+msgid "In what order would you like to display the related posts?"
+msgstr "Dengan urutan apa Anda akan menampilkan tulisan terkait?"
+
+#: ../microkids-related-posts.php:648
+msgid "By date, new to old"
+msgstr "Berdasarkan tanggal, dari yang terbaru ke yang terlama"
+
+#: ../microkids-related-posts.php:649
+msgid "By date, old to new"
+msgstr "Berdasarkan tanggal, dari yang terlama ke yang terbaru"
+
+#: ../microkids-related-posts.php:650
+msgid "Alphabetical"
+msgstr "Secara alfabetikal"
+
+#: ../microkids-related-posts.php:651
+msgid "Reverse alphabetical"
+msgstr "Kebalikan alfabetikal"
+
+#: ../microkids-related-posts.php:652
+msgid "Randomly"
+msgstr "Secara acak"
+
+#: ../microkids-related-posts.php:658
+msgid "Which post types can have related items?"
+msgstr "Jenis tulisan apa yang dapat memiliki item terkait?"
+
+#: ../microkids-related-posts.php:680
+msgid "Would you like to display different post types as seperate lists or combine them into one related posts list?"
+msgstr "Apakah Anda ingin menampilkan jenis tulisan yang berbeda sebagai senarai yang terpisah atau mengkombinasikannya ke dalam satu senarai yang terkait?"
+
+#: ../microkids-related-posts.php:682
+msgid "Display as seperate lists"
+msgstr "Tampilkan sebagai senarai yang terpisah"
+
+#: ../microkids-related-posts.php:683
+msgid "Combine into one list"
+msgstr "Kombinasikan ke dalam satu senarai"
+
+#: ../microkids-related-posts.php:688
+msgid "Save Changes"
+msgstr "Simpan Perubahan"
+
+#: ../microkids-related-posts.php:690
+#, php-format
+msgid "Note: If you need even more customization options, there are several <a%s>API functions</a> available."
+msgstr "Catatan: Jika Anda butuh pilihan kostumisasi lainnya, ada beberapa <a%s>API functions</a> tersedia."
+
+#: ../microkids-related-posts.php:695
+msgid "Donate!"
+msgstr "Sumbangan!"
+
+#: ../microkids-related-posts.php:696
+msgid "Has this plugin saved your day? Are you using it for a commercial project? Cool! But please consider a donation for my work:"
+msgstr "Apakah plugin ini sudah membantu Anda? Apakah Anda menggunakannya untuk proyek komersial? Bagus! Tapi tolonglah beri sumbangan terhadap pekerjaan saya:"
+
+#: ../microkids-related-posts.php:721
+msgid "Hide this message"
+msgstr "Sembunyikan pesan ini"
+

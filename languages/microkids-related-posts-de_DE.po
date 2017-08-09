@@ -1,0 +1,218 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Microkids Related Posts\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-06-27 17:23+0100\n"
+"PO-Revision-Date: 2011-06-27 17:41+0100\n"
+"Last-Translator: Michael Fürst <office@bluegate.at>\n"
+"Language-Team:  <microkid.net@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: /Users/superinteractive/Sites/mrp.dev/wp-content/plugins/microkids-related-posts\n"
+"X-Poedit-Language: Dutch\n"
+"X-Poedit-SearchPath-0: O:\\_PROJEKTE\\fussball-magazin.at\\source\\sitewp\\wp-content\\plugins\\microkids-related-posts\n"
+
+#: O:\_PROJEKTE\fussball-magazin.at\source\sitewp\wp-content\plugins\microkids-related-posts/microkids-related-posts-widget.php:8
+msgid "Display related posts as a widget"
+msgstr "Verwandte Posts als Widget anzeigen"
+
+#: O:\_PROJEKTE\fussball-magazin.at\source\sitewp\wp-content\plugins\microkids-related-posts/microkids-related-posts-widget.php:9
+msgid "Related Posts"
+msgstr "Verwandte Posts"
+
+#: O:\_PROJEKTE\fussball-magazin.at\source\sitewp\wp-content\plugins\microkids-related-posts/microkids-related-posts-widget.php:69
+msgid "None"
+msgstr "Keine"
+
+#: O:\_PROJEKTE\fussball-magazin.at\source\sitewp\wp-content\plugins\microkids-related-posts/microkids-related-posts-widget.php:76
+msgid "Title:"
+msgstr "Titel:"
+
+#: O:\_PROJEKTE\fussball-magazin.at\source\sitewp\wp-content\plugins\microkids-related-posts/microkids-related-posts-widget.php:77
+msgid "Post type to display:"
+msgstr "Anzuzeigender Post-Typ:"
+
+#: O:\_PROJEKTE\fussball-magazin.at\source\sitewp\wp-content\plugins\microkids-related-posts/microkids-related-posts-widget.php:80
+msgid "All"
+msgstr "Alle"
+
+#: O:\_PROJEKTE\fussball-magazin.at\source\sitewp\wp-content\plugins\microkids-related-posts/microkids-related-posts-widget.php:81
+#: O:\_PROJEKTE\fussball-magazin.at\source\sitewp\wp-content\plugins\microkids-related-posts/microkids-related-posts.php:484
+#: O:\_PROJEKTE\fussball-magazin.at\source\sitewp\wp-content\plugins\microkids-related-posts/microkids-related-posts.php:664
+msgid "Posts"
+msgstr "Posts"
+
+#: O:\_PROJEKTE\fussball-magazin.at\source\sitewp\wp-content\plugins\microkids-related-posts/microkids-related-posts-widget.php:82
+#: O:\_PROJEKTE\fussball-magazin.at\source\sitewp\wp-content\plugins\microkids-related-posts/microkids-related-posts.php:668
+msgid "Pages"
+msgstr "Seiten"
+
+#: O:\_PROJEKTE\fussball-magazin.at\source\sitewp\wp-content\plugins\microkids-related-posts/microkids-related-posts-widget.php:88
+msgid "If there are no related posts:"
+msgstr "Wenn keine verwandten Posts vorhanden sind:"
+
+#: O:\_PROJEKTE\fussball-magazin.at\source\sitewp\wp-content\plugins\microkids-related-posts/microkids-related-posts-widget.php:89
+msgid "Hide the entire widget"
+msgstr "Ganzes Widget ausblenden"
+
+#: O:\_PROJEKTE\fussball-magazin.at\source\sitewp\wp-content\plugins\microkids-related-posts/microkids-related-posts-widget.php:90
+msgid "Show this text:"
+msgstr "Zeige diesen Text:"
+
+#: O:\_PROJEKTE\fussball-magazin.at\source\sitewp\wp-content\plugins\microkids-related-posts/microkids-related-posts.php:106
+msgid "Related items"
+msgstr "Verwandte Artikel"
+
+#: O:\_PROJEKTE\fussball-magazin.at\source\sitewp\wp-content\plugins\microkids-related-posts/microkids-related-posts.php:145
+msgid "Related"
+msgstr "Verwandt"
+
+#: O:\_PROJEKTE\fussball-magazin.at\source\sitewp\wp-content\plugins\microkids-related-posts/microkids-related-posts.php:159
+#: O:\_PROJEKTE\fussball-magazin.at\source\sitewp\wp-content\plugins\microkids-related-posts/microkids-related-posts.php:163
+msgid "Use the search box below to select related items"
+msgstr "Verwende untentstehende Textbox um verwandte Artikel zu wählen"
+
+#: O:\_PROJEKTE\fussball-magazin.at\source\sitewp\wp-content\plugins\microkids-related-posts/microkids-related-posts.php:168
+msgid "Search items"
+msgstr "Artikel suchen"
+
+#: O:\_PROJEKTE\fussball-magazin.at\source\sitewp\wp-content\plugins\microkids-related-posts/microkids-related-posts.php:169
+msgid "Title"
+msgstr "Titel"
+
+#: O:\_PROJEKTE\fussball-magazin.at\source\sitewp\wp-content\plugins\microkids-related-posts/microkids-related-posts.php:169
+msgid "Content"
+msgstr "Inhalt"
+
+#: O:\_PROJEKTE\fussball-magazin.at\source\sitewp\wp-content\plugins\microkids-related-posts/microkids-related-posts.php:169
+msgid "Both"
+msgstr "Beide"
+
+#: O:\_PROJEKTE\fussball-magazin.at\source\sitewp\wp-content\plugins\microkids-related-posts/microkids-related-posts.php:579
+msgid "Settings saved"
+msgstr "Einstellungen gespeichert"
+
+#: O:\_PROJEKTE\fussball-magazin.at\source\sitewp\wp-content\plugins\microkids-related-posts/microkids-related-posts.php:586
+msgid "Donation message hidden"
+msgstr "Spenden-Nachricht ausblenden"
+
+#: O:\_PROJEKTE\fussball-magazin.at\source\sitewp\wp-content\plugins\microkids-related-posts/microkids-related-posts.php:595
+msgid "Related posts settings"
+msgstr "Einstellungen zu verwandten Posts"
+
+#: O:\_PROJEKTE\fussball-magazin.at\source\sitewp\wp-content\plugins\microkids-related-posts/microkids-related-posts.php:598
+#, php-format
+msgid "These settings let you customize the presentation of the list of related posts. If you're using a theme that supports it, you can also use the Related Posts <a%s>widget</a>."
+msgstr "Diese Einstellungen lassen Dich die Darstellung der Liste von verwandten Posts nach Deinen Wünschen anpassen. Wenn Du ein Theme verwendest, dass diese Funktion unterstützt, kannst Du auch das <a%s>Widget für verwandte Posts verwenden</a>."
+
+#: O:\_PROJEKTE\fussball-magazin.at\source\sitewp\wp-content\plugins\microkids-related-posts/microkids-related-posts.php:601
+msgid "Display related posts automatically underneath the post content?"
+msgstr "Verwandte Posts automatisch unterhalb des Post-Inhalts anzeigen?"
+
+#: O:\_PROJEKTE\fussball-magazin.at\source\sitewp\wp-content\plugins\microkids-related-posts/microkids-related-posts.php:603
+msgid "Yes"
+msgstr "Ja"
+
+#: O:\_PROJEKTE\fussball-magazin.at\source\sitewp\wp-content\plugins\microkids-related-posts/microkids-related-posts.php:604
+msgid "No, I will use the widget, the shortcode or implement the necessary PHP code in my theme file(s)."
+msgstr "Nein, ich verwende das Widget, die Shortcodes oder ich implementiere den nötigen PHP Code in meinen Theme-Dateien."
+
+#: O:\_PROJEKTE\fussball-magazin.at\source\sitewp\wp-content\plugins\microkids-related-posts/microkids-related-posts.php:608
+msgid "Should related posts be reciprocal? If so, the link will appear on both pages. If not, it will only appear on the post/page where it was selected."
+msgstr "Sollen Beziehungen auf beiden Artikeln dargestellt werden? Wenn ja, erscheint die Verlinkung auf beiden Artikeln. Wenn nein, erscheint die Verlinkung nur bei jenem Artikel, dem die Beziehung zugewiesen ist."
+
+#: O:\_PROJEKTE\fussball-magazin.at\source\sitewp\wp-content\plugins\microkids-related-posts/microkids-related-posts.php:610
+msgid "Yes, include the link on both pages"
+msgstr "Ja, den Link auf beiden Seiten anzeigen"
+
+#: O:\_PROJEKTE\fussball-magazin.at\source\sitewp\wp-content\plugins\microkids-related-posts/microkids-related-posts.php:611
+msgid "No, only show the link on one page"
+msgstr "Nein, Link nur auf einer Seite anzeigen"
+
+#: O:\_PROJEKTE\fussball-magazin.at\source\sitewp\wp-content\plugins\microkids-related-posts/microkids-related-posts.php:615
+msgid "What title should be displayed?"
+msgstr "Welcher Titel soll angezeigt werden?"
+
+#: O:\_PROJEKTE\fussball-magazin.at\source\sitewp\wp-content\plugins\microkids-related-posts/microkids-related-posts.php:619
+msgid "Using HTML header element"
+msgstr "HTML Kopf Element verwenden"
+
+#: O:\_PROJEKTE\fussball-magazin.at\source\sitewp\wp-content\plugins\microkids-related-posts/microkids-related-posts.php:629
+msgid "<strong>Note:</strong> if you choose to display different post types as seperate lists, you can place <strong>%posttype%</strong> in the title to display the label of the post type."
+msgstr "<strong>Hinweis:</strong> Wenn Du unterschiedliche Post-Typen auf getrennten Listen darstellen möchtest, kannst Du <strong>%posttype%</strong> im Titel anführen um die Bezeichnung des Post-Typs anzuzeigen. "
+
+#: O:\_PROJEKTE\fussball-magazin.at\source\sitewp\wp-content\plugins\microkids-related-posts/microkids-related-posts.php:633
+msgid "What should be displayed when there are no related posts?"
+msgstr "Was soll angezeigt werden, wenn keine verwandten Posts vorhanden sind?"
+
+#: O:\_PROJEKTE\fussball-magazin.at\source\sitewp\wp-content\plugins\microkids-related-posts/microkids-related-posts.php:635
+msgid "Nothing"
+msgstr "Nichts"
+
+#: O:\_PROJEKTE\fussball-magazin.at\source\sitewp\wp-content\plugins\microkids-related-posts/microkids-related-posts.php:637
+msgid "Show this text"
+msgstr "Zeige diesen Text"
+
+#: O:\_PROJEKTE\fussball-magazin.at\source\sitewp\wp-content\plugins\microkids-related-posts/microkids-related-posts.php:644
+msgid "In what order would you like to display the related posts?"
+msgstr "Ich welcher Reihenfolge sollen die verwandten Posts angezeigt werden?"
+
+#: O:\_PROJEKTE\fussball-magazin.at\source\sitewp\wp-content\plugins\microkids-related-posts/microkids-related-posts.php:648
+msgid "By date, new to old"
+msgstr "Nach Datum absteigend"
+
+#: O:\_PROJEKTE\fussball-magazin.at\source\sitewp\wp-content\plugins\microkids-related-posts/microkids-related-posts.php:649
+msgid "By date, old to new"
+msgstr "Nach Datum aufsteiogend"
+
+#: O:\_PROJEKTE\fussball-magazin.at\source\sitewp\wp-content\plugins\microkids-related-posts/microkids-related-posts.php:650
+msgid "Alphabetical"
+msgstr "Alphabetisch"
+
+#: O:\_PROJEKTE\fussball-magazin.at\source\sitewp\wp-content\plugins\microkids-related-posts/microkids-related-posts.php:651
+msgid "Reverse alphabetical"
+msgstr "Umgekehrt alphabetisch"
+
+#: O:\_PROJEKTE\fussball-magazin.at\source\sitewp\wp-content\plugins\microkids-related-posts/microkids-related-posts.php:652
+msgid "Randomly"
+msgstr "Zufälig"
+
+#: O:\_PROJEKTE\fussball-magazin.at\source\sitewp\wp-content\plugins\microkids-related-posts/microkids-related-posts.php:658
+msgid "Which post types can have related items?"
+msgstr "Welche Post-Typen dürfen verwandte Artikel haben?"
+
+#: O:\_PROJEKTE\fussball-magazin.at\source\sitewp\wp-content\plugins\microkids-related-posts/microkids-related-posts.php:680
+msgid "Would you like to display different post types as seperate lists or combine them into one related posts list?"
+msgstr "Sollen unterschiedliche Post-Typen in getrennten Listen oder in einer kombinierten Liste dargestellt werden?"
+
+#: O:\_PROJEKTE\fussball-magazin.at\source\sitewp\wp-content\plugins\microkids-related-posts/microkids-related-posts.php:682
+msgid "Display as seperate lists"
+msgstr "Als getrennte Listen anzeigen"
+
+#: O:\_PROJEKTE\fussball-magazin.at\source\sitewp\wp-content\plugins\microkids-related-posts/microkids-related-posts.php:683
+msgid "Combine into one list"
+msgstr "In einer Liste kombinieren"
+
+#: O:\_PROJEKTE\fussball-magazin.at\source\sitewp\wp-content\plugins\microkids-related-posts/microkids-related-posts.php:688
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+#: O:\_PROJEKTE\fussball-magazin.at\source\sitewp\wp-content\plugins\microkids-related-posts/microkids-related-posts.php:690
+#, php-format
+msgid "Note: If you need even more customization options, there are several <a%s>API functions</a> available."
+msgstr "Hinweis: Wenn Du das Plugin weiter personalisieren willst, stehen Dir dafür eine Menge <a%s>API Funktionen</a> zur Verfügung."
+
+#: O:\_PROJEKTE\fussball-magazin.at\source\sitewp\wp-content\plugins\microkids-related-posts/microkids-related-posts.php:695
+msgid "Donate!"
+msgstr "Spenden!"
+
+#: O:\_PROJEKTE\fussball-magazin.at\source\sitewp\wp-content\plugins\microkids-related-posts/microkids-related-posts.php:696
+msgid "Has this plugin saved your day? Are you using it for a commercial project? Cool! But please consider a donation for my work:"
+msgstr "Hat dieses Plugin Deinen Tag gerettet? Oder verwendest Du es für ein kommerzielles Projekt? Cool! Bitte unterstütze meine Arbeit mit einer kleiner Spende:"
+
+#: O:\_PROJEKTE\fussball-magazin.at\source\sitewp\wp-content\plugins\microkids-related-posts/microkids-related-posts.php:721
+msgid "Hide this message"
+msgstr "Nachricht ausblenden"
+
